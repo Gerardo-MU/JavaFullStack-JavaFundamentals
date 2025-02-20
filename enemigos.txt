@@ -1,0 +1,3 @@
+Babolax;1;50;Globin
+Agatha;5;10;Bruja
+Amaru;10;500;Dragon
