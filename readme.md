@@ -59,7 +59,7 @@ git clone https://github.com/Gerardo-MU/JavaFullStack-ReactFundamentals
 2. Entra al directorio del proyecto:
 
 ```bash
-cd JuegoRPG
+cd JavaFullStack-JavaFundamentals
 ```
 
 3. Compila el proyecto:
