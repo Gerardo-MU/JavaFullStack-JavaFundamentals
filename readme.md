@@ -53,7 +53,7 @@ A continuación se presentan las siguientes pantallas de las principales página
 1. Clona el repositorio:
 
 ```bash
-git clone https://github.com/Gerardo-MU/JavaFullStack-ReactFundamentals
+git clone https://github.com/Gerardo-MU/JavaFullStack-JavaFundamentals
 ```
 
 2. Entra al directorio del proyecto:
